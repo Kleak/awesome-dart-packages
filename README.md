@@ -74,6 +74,7 @@ Name | Repository | License
 
 Name | Repository | License
 ---- | ---------- | ------
+[angel](https://pub.dartlang.org/packages/angel_common) | https://github.com/angel-dart/angel | [MIT](https://github.com/angel-dart/framework/blob/master/LICENSE)
 [aqueduct](https://pub.dartlang.org/packages/aqueduct) | https://github.com/stablekernel/aqueduct | [BSD](https://github.com/stablekernel/aqueduct/blob/master/LICENSE)
 [redstone](https://pub.dartlang.org/packages/redstone) | https://github.com/redstone-dart/redstone | [MIT](https://github.com/redstone-dart/redstone)
 [shelf](https://pub.dartlang.org/packages/shelf) | https://github.com/dart-lang/shelf | [BSD](https://github.com/dart-lang/shelf/blob/master/LICENSE)
