@@ -78,6 +78,7 @@ Name | Repository | License
 [aqueduct](https://pub.dartlang.org/packages/aqueduct) | https://github.com/stablekernel/aqueduct | [BSD](https://github.com/stablekernel/aqueduct/blob/master/LICENSE)
 [redstone](https://pub.dartlang.org/packages/redstone) | https://github.com/redstone-dart/redstone | [MIT](https://github.com/redstone-dart/redstone)
 [shelf](https://pub.dartlang.org/packages/shelf) | https://github.com/dart-lang/shelf | [BSD](https://github.com/dart-lang/shelf/blob/master/LICENSE)
+[jaguar](https://pub.dartlang.org/packages/jaguar) | https://github.com/Jaguar-dart/jaguar | [BSD](https://github.com/Jaguar-dart/jaguar/blob/master/LICENSE)
 
 ## Testing
 
